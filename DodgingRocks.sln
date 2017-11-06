@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DodgingRocks", "DodgingRocks\DodgingRocks.csproj", "{E523D20C-8083-481C-9870-C5DE51FDD67F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DodgingRocks.Tests", "DodgingRocks.Tests\DodgingRocks.Tests.csproj", "{001E4608-0F2A-409F-A3D2-06FCA9325A89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E523D20C-8083-481C-9870-C5DE51FDD67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E523D20C-8083-481C-9870-C5DE51FDD67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E523D20C-8083-481C-9870-C5DE51FDD67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E523D20C-8083-481C-9870-C5DE51FDD67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001E4608-0F2A-409F-A3D2-06FCA9325A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001E4608-0F2A-409F-A3D2-06FCA9325A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001E4608-0F2A-409F-A3D2-06FCA9325A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001E4608-0F2A-409F-A3D2-06FCA9325A89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCDD3D9D-E1B0-412B-97E7-A5FD54AE4E81}
+	EndGlobalSection
+EndGlobal
